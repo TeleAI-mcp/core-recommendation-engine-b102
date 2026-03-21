@@ -1,2 +1,3 @@
-# core-recommendation-engine-b102
-A AI-powered recommendation system for modern development workflows
+# Core Recommendation Engine B102
+
+A AI-powered recommendation system for modern development workflows.
